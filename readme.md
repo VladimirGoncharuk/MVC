@@ -1,7 +1,7 @@
 # Проект **MVC**
 Разработан в качестве практического задания на курсе PHPDEV-1004 -  ***Модуль 24. MVC***
 ***
-![php gd](images\phpgd.png)
+![php gd](images/phpgd.png)
 
 ***
 
