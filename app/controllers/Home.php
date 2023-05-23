@@ -15,4 +15,7 @@ class Home extends Controller
     public function specialaviation(){
     $this->view->render('specialAviation.php','template.phtml');
     }
+    public function contacts(){
+    $this->view->render('contacts.php','template.phtml');
+    }
 }
